@@ -1,6 +1,6 @@
 ![cover](tush-png.png)
 
-- <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently practicing **DSA**
+- <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently practising **DSA**
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
 

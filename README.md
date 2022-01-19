@@ -1,2 +1,2 @@
-![cover](tush.png)
+![cover](tush-png.png)
 

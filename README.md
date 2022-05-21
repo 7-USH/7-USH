@@ -2,8 +2,6 @@
 
 - <img src="https://media.giphy.com/media/L1KpkdbH8aEkXow8eV/giphy.gif" width="25px" height="25px"> I’m currently practising **DSA**
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" /> 
-
 - <img src="https://media1.giphy.com/media/cNFFHJ5Ki8KBJbS2Lt/giphy.gif?cid=ecf05e47x3gb9jhjh1e7id6c58goneip5jg50k8yeskmpyar&rid=giphy.gif&ct=g" width="25px" height="25px"> Currently learning **Game Dev** 
 
 - <img src="https://media.giphy.com/media/26BRCAa7zyWHTWOyY/giphy.gif" width="25px" height="25px"> All of my projects are available at [https://github.com/7-USH](https://github.com/7-USH?tab=repositories)

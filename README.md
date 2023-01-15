@@ -16,7 +16,7 @@
 <br>
 
 <a href="https://github.com/7-USH">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=7-USH&show_icons=true&theme=tokyonight" />
+  <img height="180em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=7-USH&show_icons=true&theme=tokyonight" />
 </a>
 
 <br>
